@@ -3,7 +3,7 @@
 Todos los cambios representativos del proyecto serán documentados en este archivo. Este formato esta basado en ["Keep a Changelog"](https://keepachangelog.com/en/1.0.0/), y este proyecto se adhiere al uso de [versionamiento semántico](https://semver.org/spec/v2.0.0.html).
 
 
-## [0.0.3](https://github.com/11161518702/Proyecto-2023/edit/wjfatuan/v0.0.3) - 2022-08-30
+## [0.0.3](https://github.com/11161518702/Proyecto-2023/edit/wjfatuan/v0.0.3) - 2023-03-29
 
 ### Agregado
 
@@ -14,7 +14,7 @@ Todos los cambios representativos del proyecto serán documentados en este archi
 - Errores de ortografía y algunos links
 
 
-## [0.0.2](https://github.com/11161518702/Proyecto-2023/edit/wjfatuan/v0.0.2) - 2022-08-29
+## [0.0.2](https://github.com/11161518702/Proyecto-2023/edit/wjfatuan/v0.0.2) - 2023-03-04
 
 ### Agregado
 
@@ -25,7 +25,7 @@ Todos los cambios representativos del proyecto serán documentados en este archi
 - Errores de ortografía y algunos links
 
 
-## [0.0.1](https://github.com/11161518702/Proyecto-2023/edit/wjfatuan/v.0.0.1) - 2022-08-09
+## [0.0.1](https://github.com/11161518702/Proyecto-2023/edit/wjfatuan/v.0.0.1) - 2023-02-09
 
 ### Agregado
 
